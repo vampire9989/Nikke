@@ -1,6 +1,8 @@
 # Nikke
 
 How to use:
+first, make sure pycryptodome is already installed. if not, use `pip install pycryptodome`
+
 ```
 usage: Nikke [-h] input_folder output_folder
 
