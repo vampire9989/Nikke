@@ -2,8 +2,12 @@
 
 How to use:
 
-first, make sure `pycryptodome` is already installed. if not, use `pip install pycryptodome`
+first:
+```
+`pip install -r requirements.txt`
+```
 
+then:
 ```
 usage: Nikke [-h] input_folder output_folder
 
